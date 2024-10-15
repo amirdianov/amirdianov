@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://amirdianov.github.io/" target="_blank">Amir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python-Dev. Student of KFU/ITIS in 3 course. 💻</h3>
+<h3 align="center">Python-Dev. Student of KFU/ITIS in 4 course. 💻</h3>
 
 ## About me :infinity:
 
