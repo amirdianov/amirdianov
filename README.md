@@ -5,7 +5,7 @@
 
 ## About me :infinity:
 
-### Education 	:man_student:
+### Education :mortar_board:
 - I finished my studies at **<a href='https://academy.yandex.ru/lyceum/' target="_blank">Yandex Lyceum  <img src='https://cdn.icon-icons.com/icons2/699/PNG/512/yandex_cyr_icon-icons.com_61627.png' height=25 weight=15></a>**
 - Now I'm styding in second course of software engineering **<a href='https://kpfu.ru/itis' target="_blank">ITIS Kazan Federal University :mortar_board:</a>**
 
